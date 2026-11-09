@@ -1,0 +1,13 @@
+# Article texts belong to Al Jazeera and are not redistributed
+data/raw/
+*.csv
+!data/article_index.csv
+!results/*.csv
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
