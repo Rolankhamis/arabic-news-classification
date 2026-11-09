@@ -1,6 +1,7 @@
 # Arabic News Classification with TF-IDF: Feature Selection, Classifier Transfer and Temporal Evaluation
 
 Master's thesis project, **Master of Computer Engineering, Islamic University of Gaza**
+
 Author: **Rolan Khamis Abu Salem** · Supervisor: **Dr. Mohammed Alhanjouri**
 
 ## Overview
